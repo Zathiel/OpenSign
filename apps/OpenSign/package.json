@@ -100,7 +100,7 @@
     "@babel/preset-env": "^7.26.8",
     "@babel/preset-react": "^7.26.3",
     "@babel/runtime-corejs2": "^7.26.7",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "babel-loader": "^9.2.1",
     "commitizen": "^4.3.1",
     "concurrently": "^9.1.2",
