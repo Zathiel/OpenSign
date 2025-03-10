@@ -108,7 +108,7 @@
     "daisyui": "^4.12.23",
     "dotenv": "^16.4.7",
     "dotenv-webpack": "^8.1.0",
-    "eslint": "^9.20.0",
+    "eslint": "^9.22.0",
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-react": "^7.37.4",
     "lint-staged": "^15.4.3",
